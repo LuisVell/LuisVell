@@ -1,6 +1,6 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisVell&count_private=true&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVell&layout=compact&theme=dark">
 </div>
 <a href="https://www.reddit.com/user/WhiteVell"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
