@@ -1,14 +1,7 @@
-~~~ENG
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~PT-BR
-Esta é uma linha de código em PHP.
-~~~
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisVell&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisVell&count_private=true&show_icons=true&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
+</div>
 <a href="https://www.reddit.com/user/WhiteVell"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
 <a href="https://www.linkedin.com/in/luis-vellar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
